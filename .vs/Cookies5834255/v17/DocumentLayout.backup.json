@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\danie\\source\\repos\\Cookies5834255\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E38975B8-003B-46D3-BDC5-DA705F1EE51B}|Cookies5834255.csproj|C:\\Users\\danie\\source\\repos\\Cookies5834255\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E38975B8-003B-46D3-BDC5-DA705F1EE51B}|Cookies5834255.csproj|solutionrelative:webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E38975B8-003B-46D3-BDC5-DA705F1EE51B}|Cookies5834255.csproj|c:\\users\\danie\\source\\repos\\cookies5834255\\productconfirmcookies.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38975B8-003B-46D3-BDC5-DA705F1EE51B}|Cookies5834255.csproj|solutionrelative:productconfirmcookies.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E38975B8-003B-46D3-BDC5-DA705F1EE51B}|Cookies5834255.csproj|c:\\users\\danie\\source\\repos\\cookies5834255\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{E38975B8-003B-46D3-BDC5-DA705F1EE51B}|Cookies5834255.csproj|solutionrelative:webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{E38975B8-003B-46D3-BDC5-DA705F1EE51B}|Cookies5834255.csproj|c:\\users\\danie\\source\\repos\\cookies5834255\\productenterviewstate.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38975B8-003B-46D3-BDC5-DA705F1EE51B}|Cookies5834255.csproj|solutionrelative:productenterviewstate.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38975B8-003B-46D3-BDC5-DA705F1EE51B}|Cookies5834255.csproj|c:\\users\\danie\\source\\repos\\cookies5834255\\productconfirmcookies.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E38975B8-003B-46D3-BDC5-DA705F1EE51B}|Cookies5834255.csproj|solutionrelative:productconfirmcookies.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38975B8-003B-46D3-BDC5-DA705F1EE51B}|Cookies5834255.csproj|c:\\users\\danie\\source\\repos\\cookies5834255\\productenterviewstate.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E38975B8-003B-46D3-BDC5-DA705F1EE51B}|Cookies5834255.csproj|solutionrelative:productenterviewstate.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,24 +31,50 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WebForm1.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\Cookies5834255\\WebForm1.aspx.cs",
-              "RelativeDocumentMoniker": "WebForm1.aspx.cs",
-              "ToolTip": "C:\\Users\\danie\\source\\repos\\Cookies5834255\\WebForm1.aspx.cs",
-              "RelativeToolTip": "WebForm1.aspx.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Title": "ProductConfirmCookies.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\Cookies5834255\\ProductConfirmCookies.aspx.cs",
+              "RelativeDocumentMoniker": "ProductConfirmCookies.aspx.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\Cookies5834255\\ProductConfirmCookies.aspx.cs",
+              "RelativeToolTip": "ProductConfirmCookies.aspx.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwCgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T21:29:46.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductConfirmCookies.aspx",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\Cookies5834255\\ProductConfirmCookies.aspx",
+              "RelativeDocumentMoniker": "ProductConfirmCookies.aspx",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\Cookies5834255\\ProductConfirmCookies.aspx",
+              "RelativeToolTip": "ProductConfirmCookies.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-01T21:11:52.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductEnterViewState.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\Cookies5834255\\ProductEnterViewState.aspx.cs",
+              "RelativeDocumentMoniker": "ProductEnterViewState.aspx.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\Cookies5834255\\ProductEnterViewState.aspx.cs",
+              "RelativeToolTip": "ProductEnterViewState.aspx.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T22:09:42.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WebForm1.aspx",
-              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\Cookies5834255\\WebForm1.aspx",
-              "RelativeDocumentMoniker": "WebForm1.aspx",
-              "ToolTip": "C:\\Users\\danie\\source\\repos\\Cookies5834255\\WebForm1.aspx",
-              "RelativeToolTip": "WebForm1.aspx",
+              "DocumentIndex": 3,
+              "Title": "ProductEnterViewState.aspx",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\Cookies5834255\\ProductEnterViewState.aspx",
+              "RelativeDocumentMoniker": "ProductEnterViewState.aspx",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\Cookies5834255\\ProductEnterViewState.aspx",
+              "RelativeToolTip": "ProductEnterViewState.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-02-27T03:58:02.517Z",

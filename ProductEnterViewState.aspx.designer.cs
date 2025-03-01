@@ -33,15 +33,6 @@ namespace Cookies5834255
         protected global::System.Web.UI.WebControls.Table Table1;
 
         /// <summary>
-        /// Control LblCategory.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LblCategory;
-
-        /// <summary>
         /// Control ddlCategory.
         /// </summary>
         /// <remarks>
@@ -49,15 +40,6 @@ namespace Cookies5834255
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.DropDownList ddlCategory;
-
-        /// <summary>
-        /// Control LblSupplier.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LblSupplier;
 
         /// <summary>
         /// Control ddlSupplier.
@@ -69,15 +51,6 @@ namespace Cookies5834255
         protected global::System.Web.UI.WebControls.DropDownList ddlSupplier;
 
         /// <summary>
-        /// Control LblProduct.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LblProduct;
-
-        /// <summary>
         /// Control txtProduct.
         /// </summary>
         /// <remarks>
@@ -85,15 +58,6 @@ namespace Cookies5834255
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtProduct;
-
-        /// <summary>
-        /// Control LblDescription.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LblDescription;
 
         /// <summary>
         /// Control txtDescription.
@@ -105,15 +69,6 @@ namespace Cookies5834255
         protected global::System.Web.UI.WebControls.TextBox txtDescription;
 
         /// <summary>
-        /// Control LblImage.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LblImage;
-
-        /// <summary>
         /// Control txtImage.
         /// </summary>
         /// <remarks>
@@ -121,15 +76,6 @@ namespace Cookies5834255
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtImage;
-
-        /// <summary>
-        /// Control LblPrice.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LblPrice;
 
         /// <summary>
         /// Control txtPrice.
@@ -141,15 +87,6 @@ namespace Cookies5834255
         protected global::System.Web.UI.WebControls.TextBox txtPrice;
 
         /// <summary>
-        /// Control LblNumberInStock.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LblNumberInStock;
-
-        /// <summary>
         /// Control txtNumberInStock.
         /// </summary>
         /// <remarks>
@@ -159,31 +96,13 @@ namespace Cookies5834255
         protected global::System.Web.UI.WebControls.TextBox txtNumberInStock;
 
         /// <summary>
-        /// Control LblNumberInOrder.
+        /// Control txtNumberOnOrder.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LblNumberInOrder;
-
-        /// <summary>
-        /// Control txtNumberInOrder.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtNumberInOrder;
-
-        /// <summary>
-        /// Control LblReorderLevel.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LblReorderLevel;
+        protected global::System.Web.UI.WebControls.TextBox txtNumberOnOrder;
 
         /// <summary>
         /// Control txtReorderLevel.

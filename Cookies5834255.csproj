@@ -67,17 +67,25 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="ProductConfirmCookies.aspx" />
     <Content Include="Web.config" />
-    <Content Include="WebForm1.aspx" />
+    <Content Include="ProductEnterViewState.aspx" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="WebForm1.aspx.cs">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
+    <Compile Include="ProductConfirmCookies.aspx.cs">
+      <DependentUpon>ProductConfirmCookies.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="WebForm1.aspx.designer.cs">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
+    <Compile Include="ProductConfirmCookies.aspx.designer.cs">
+      <DependentUpon>ProductConfirmCookies.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ProductEnterViewState.aspx.cs">
+      <DependentUpon>ProductEnterViewState.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ProductEnterViewState.aspx.designer.cs">
+      <DependentUpon>ProductEnterViewState.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
